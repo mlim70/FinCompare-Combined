@@ -1,0 +1,6 @@
+[submodule "FinCompare"]
+	path = FinCompare
+	url = https://github.com/lukasp-dev/FinCompare.git
+[submodule "ugaHacks"]
+	path = ugaHacks
+	url = https://github.com/lukasp-dev/ugaHacks.git
